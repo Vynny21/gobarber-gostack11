@@ -2,6 +2,9 @@
   <img alt="Logo" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588625369/GoBarber/logo_iw1v9f.svg" width="200px">
 </h1>
 
+## Repository with Frontend, Backend and Mobile of the GoBarber project.
+<h3>See below, within access to each module of the project within its respective session, being Frontend, Backend and Mobile.</h3>
+
 <h1>Backend</h1>
 <h3 align="center">
   Express Application for GoBarber project
@@ -290,6 +293,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+<h1>Mobile</h1>
+
 <h3 align="center">
   React Native Application for GoBarber project
 </h3>
@@ -325,11 +330,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 ## 💇🏻‍♂️ About the project
-
-Soon
-
-To see the **api**, click here: [GoBarber Rest API](https://github.com/EliasGcf/gobarber-api)</br>
-To see the **web client**, click here: [GoBarber Web](https://github.com/EliasGcf/gobarber-web)
 
 ## 🚀 Technologies
 
