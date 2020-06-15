@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588625369/GoBarber/logo_iw1v9f.svg" width="200px">
 </h1>
 
-## Repository with Frontend, Backend and Mobile of the GoBarber project.
+<h1 align="center">Repository with Frontend, Backend and Mobile of the GoBarber project.</h1>
 <h3>See below, within access to each module of the project within its respective session, being Frontend, Backend and Mobile.</h3>
 
 <h1>Backend</h1>
