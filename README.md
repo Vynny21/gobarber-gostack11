@@ -5,6 +5,9 @@
 <h1 align="center">Repository with Frontend, Backend and Mobile of the GoBarber project.</h1>
 <h3>See below, within access to each module of the project within its respective session, being Frontend, Backend and Mobile.</h3>
 
+## **Clone the FullStack version project and access the folder**
+$ git clone https://github.com/Vynny21/gobarber-gostack11.git && cd gobarber-api
+
 <h1>Backend</h1>
 <h3 align="center">
   Express Application for GoBarber project
