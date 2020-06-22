@@ -4,8 +4,8 @@
     "type": "postgres",
     "host": "localhost",
     "port": 5432,
-    "username": "docker",
-    "password": "docker",
+    "username": "postgres",
+    "password": "46b7c9444562074a690ff94e53841c5d",
     "database": "gobarber",
     "entities": [
       "./src/modules/**/infra/typeorm/entities/*.ts"
@@ -23,6 +23,7 @@
     "host": "localhost",
     "port": 27017,
     "database": "gobarber",
+    "password": "46b7c9444562074a690ff94e53841c5d",
     "useUnifiedTopology": true,
     "entities": [
       "./src/modules/**/infra/typeorm/schemas/*.ts"
